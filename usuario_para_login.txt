@@ -1,4 +1,0 @@
-administrador
-
-usuario: 'perro@gmail.com'
-contraseña: 'perro'
